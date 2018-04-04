@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CleanMasterDetailProject.iml" filepath="$PROJECT_DIR$/CleanMasterDetailProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CleanMasterDetailProject.iml" filepath="$PROJECT_DIR$/.idea/CleanMasterDetailProject.iml" />
+      <module fileurl="file://C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\CleanMasterDetailProject.iml" filepath="C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\CleanMasterDetailProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" filepath="$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" />
+      <module fileurl="file://C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\CleanMvpLib\CleanMvpLib.iml" filepath="C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\CleanMvpLib\CleanMvpLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" filepath="$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" />
+      <module fileurl="file://C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\MasterDetailApp\MasterDetailApp.iml" filepath="C:\Users\Jorge\Desktop\Work\AppDesign\CleanMasterDetailProject\MasterDetailApp\MasterDetailApp.iml" />
     </modules>
   </component>
 </project>
