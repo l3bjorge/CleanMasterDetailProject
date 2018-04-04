@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CleanMasterDetailProject.iml" filepath="$PROJECT_DIR$/CleanMasterDetailProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" filepath="$PROJECT_DIR$/CleanMvpLib/CleanMvpLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" filepath="$PROJECT_DIR$/MasterDetailApp/MasterDetailApp.iml" />
+    </modules>
+  </component>
+</project>

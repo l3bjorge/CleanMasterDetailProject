@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="title_screen_detail">Detail Screen</string>
+    <string name="title_screen_master">Master Screen</string>
+    <string name="title_item_list">Item List</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_restore">Restore</string>
+</resources>
